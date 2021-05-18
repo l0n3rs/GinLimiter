@@ -1,8 +1,8 @@
 # GinLimiter
 
 A limiter middleware for gin web framework <br>
-一个适用于Gin框架的流控中间件
-[detail](https://www.mesec.cn/archives/118)
+一个适用于Gin框架的流控中间件<br>
+#### [detail](https://www.mesec.cn/archives/118)
 
 # Install
 ```
